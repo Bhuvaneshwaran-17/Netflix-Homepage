@@ -26,3 +26,15 @@ netflix-homepage/
 
 - HTML5
 - CSS3 (Flexbox only)
+
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Netflix Homepage](netflix%20homepage.png)
+
+### 📺 Section 2
+![Homepage Section 2](netflix%20home%20page%202.png)
+
+### 🔻 Footer Section
+![Footer Section](netflix%20home%20page%203.png)
